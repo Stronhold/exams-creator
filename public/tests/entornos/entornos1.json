@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "Algunas características del software son:",
+      "opciones": [
+        {
+          "texto": "Es intangible.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Se desarrolla.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "En algunas ocasiones, es a medida.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Dentro de los modos de colaboración con los SCV (Sistemas de Control de Versiones) está:",
+      "opciones": [
+        {
+          "texto": "Flujo de trabajo centralizado.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Flujo de trabajo con gestor de integración.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Flujo de trabajo con dictador y tenientes.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Durante\\n la elaboración de diagramas de comportamiento de casos de uso, la \\nrelación de extensión es una situación donde dos casos de uso comparten \\nfuncionalidad y, además:",
+      "opciones": [
+        {
+          "texto": "Uno de ellos añade un matiz extra.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Son idénticos, no hay ningún matiz que los diferencie.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Uno de ellos requiere del otro para su realización.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Ejecutando el comando “javac -version”:",
+      "opciones": [
+        {
+          "texto": "Comprobamos que está instalado el JDK (Java Development Kit).",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Comprobamos que está instalado el JVM (Java Virtual Machine).",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Comprobamos que está instalado NetBeans.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Iniciamos el proceso de depuración de errores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El compilador de Java también se denomina:",
+      "opciones": [
+        {
+          "texto": "Javac.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "JRE.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "JVM.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "JDK.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El diagrama de casos de uso permite:",
+      "opciones": [
+        {
+          "texto": "Secuenciación temporal del programa con las interacciones entre objetos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Clasifica las clases y especifica las relaciones entre ellas.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Representar varias aplicaciones de un sistema y los elementos que lo llevan a cabo.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "A y B don correctas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El nivel de visibilidad designado con “-” es:",
+      "opciones": [
+        {
+          "texto": "El público.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El protegido.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El reflexivo.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "El privado.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El\\n proceso de reestructuración interna del código, generalmente para \\noptimizar el comportamiento del código sin modificarlo se llama:",
+      "opciones": [
+        {
+          "texto": "Refactorización.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Recodificación.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Reordenación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Regeneración.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El software estándar o enlatado:",
+      "opciones": [
+        {
+          "texto": "Es un software que se compra ya desarrollado.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es un mismo programa o aplicación que usarán varias aplicaciones o clientes.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cuenta con menos errores que el software hecho a medida porque se ha probado en muchos ámbitos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El valor int:",
+      "opciones": [
+        {
+          "texto": "Indica valores en números enteros.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Indica valores en números con decimales.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Indica valores con una línea de caracteres alfanuméricos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Las dos primeras son correctas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En el lenguaje UML los atributos de una clase se representan en:",
+      "opciones": [
+        {
+          "texto": "La primera celda.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La segunda celda.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "La tercera celda.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En los diagramas de secuencia, dentro de la elaboración de diagramas de comportamiento, el envío de mensajes puede ser:",
+      "opciones": [
+        {
+          "texto": "Simple.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Sincrónico.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Asincrónico.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Entre las medidas para evaluar los principales criterios de calidad están:",
+      "opciones": [
+        {
+          "texto": "Modularidad.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Estandarización de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Tolerancia a errores.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Entre sus herramientas, un IDE puede contar con:",
+      "opciones": [
+        {
+          "texto": "Editor.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Depurador",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Compilador",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es muy recomendable que las pruebas:",
+      "opciones": [
+        {
+          "texto": "Las realice personal del equipo de programación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No cubran aspectos como las características del software a probar o los módulos o partes del software a probar.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Las realice personal externo al equipo de programación.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es un elemento de los diagramas de uso:",
+      "opciones": [
+        {
+          "texto": "Actor.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Caso de uso.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Sistema.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La acción de depurar un programa se debe a:",
+      "opciones": [
+        {
+          "texto": "Arreglar fallos de un programa.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Cambiar el programa.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Combinar varios programas.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Eliminar un programa.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La fase en la que se definen los procesos específicos que van a seguir cada una de las fases de ejecución de la aplicación es:",
+      "opciones": [
+        {
+          "texto": "Fase de diseño.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Fase de análisis.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Fase inicial.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Explotación.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La refactorización es: ",
+      "opciones": [
+        {
+          "texto": "Un medio de limpieza de código. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El proceso de reestructuración interna de un código sin cambiar el programa. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "No es un único proceso sino un conjunto de ellos. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La relación de agregación se marca con:",
+      "opciones": [
+        {
+          "texto": "Un triángulo vacío.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un rombo vacío.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Un rombo negro.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Un círculo vacío.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La UML es:",
+      "opciones": [
+        {
+          "texto": "Un lenguaje de modulado.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Un tipo de programa OO.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Una OO.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las primeras pruebas que se realizan durante las primeras fases del desarrollo del software son:",
+      "opciones": [
+        {
+          "texto": "Pruebas de integración.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Pruebas de aceptación.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Pruebas unitarias.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Pruebas de validación.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las pruebas que se deben realizar para comprobar que el software ofrece todo lo necesario y funciona son:",
+      "opciones": [
+        {
+          "texto": "Diseñadas o mantenidas.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Explotadas o analizadas.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Codificadas o implementadas.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Funcionales o estructurales.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las pruebas que se realizan tras modificar algo en la aplicación para comprobar que los cambios no han afectado al software son:",
+      "opciones": [
+        {
+          "texto": "Pruebas funcionales.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Pruebas unitarias.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Pruebas funcionales.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Pruebas de regresión.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las pruebas se realizan con el fin de:",
+      "opciones": [
+        {
+          "texto": "Convencer de que el software cumple con los objetivos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Comprobar que no hay errores en el software.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Asegurar que el software está operativo.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las relaciones de inclusión:",
+      "opciones": [
+        {
+          "texto": "Unen casos de uso cuando uno requiere de los otros para ejecutarse.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Se marcan empleando una flecha con un rombo por cabeza. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Se encuentran en los diagramas de actividades",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los case permiten:",
+      "opciones": [
+        {
+          "texto": "La reutilización del software.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La portabilidad del software.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La estandarización de la documentación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los diagramas de estados poseen:",
+      "opciones": [
+        {
+          "texto": "Un marcado inicio y final.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Semejanzas con los diagramas de clases por su uso de estados semejante a los atributos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Las dos anteriores son correctas.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los lenguajes de programación que se clasifican dependiendo de cómo se ejecutan son:",
+      "opciones": [
+        {
+          "texto": "Lenguajes compilados, interpretados y virtuales.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Lenguajes de máquina y de medio nivel.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Lenguajes de alto nivel y de ensamblador.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los métodos:",
+      "opciones": [
+        {
+          "texto": "Son las acciones que podrá desempeñar cada instancia.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "No forma parte de los UML. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Se muestran siempre con un valor int.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "La primera y tercera son correctas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los patrones de diseño son:",
+      "opciones": [
+        {
+          "texto": "Programas CASE.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Elementos de corrección.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Programas de ordenación de código.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Soluciones prefabricadas para problemas comunes. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los POO son: ",
+      "opciones": [
+        {
+          "texto": "Programas de Orientación Orgánica. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Programas Orientados a Objetos. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Programas de Objetos Orientados. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Programas con Objetos Ocultos.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los SCV pueden ser:",
+      "opciones": [
+        {
+          "texto": "Centralizados o compartimentados.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Compartimentados o individuales.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cíclicos o centralizados.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Centralizados o distribuidos. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los tipos de diagramas que pueden desarrollarse por UML se dividen en:",
+      "opciones": [
+        {
+          "texto": "No existen grandes categorías.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Dos grandes categorías: estructura y comportamiento.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Dos grandes categorías: interactividad y comunicación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Tres grandes categorías: estandarización, consolidación y comportamiento.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los tipos de documentación fundamentales en la creación de software en función de su naturaleza son:",
+      "opciones": [
+        {
+          "texto": "Documentos técnicos y funcionales.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Documentos técnicos y orgánicos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Documentos funcionales y descriptivos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Documentos creacionales y estructurales.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los tipos de lenguajes de programación son:",
+      "opciones": [
+        {
+          "texto": "Lenguaje de diseño y lenguaje de contabilidad.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Lenguaje estándar y lenguaje mecanizado.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Lenguaje máquina, lenguaje de medio nivel o ensamblador y lenguaje de alto nivel.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Lenguaje interpretado y lenguaje literal.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "NetBeans es un IDE:",
+      "opciones": [
+        {
+          "texto": "No es modular, es decir, no se pueden instalar módulos adicionales.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Solo puede usarse en sistemas operativos Windows.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "En el que podemos desarrollar en java y otros lenguajes como C/C++, HTML, PHP y Python.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un punto de interrupción al depurar un programa consiste en:",
+      "opciones": [
+        {
+          "texto": "Un lugar en el programa donde se detendrá la ejecución y se espera a que el depurador proceda.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Un lugar en el programa donde se actualiza la ejecución y se espera a que el depurador lo solucione.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un lugar en el programa donde se indica un punto de error",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Un lugar donde se espera un warning de error de código",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una de las características del lenguaje de modelado UML es:",
+      "opciones": [
+        {
+          "texto": "Documentación sencilla.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Estandarización. Se considera el lenguaje estándar para los sistemas orientados a objetos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Capacidad de diagramación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una instancia es: ",
+      "opciones": [
+        {
+          "texto": "Un valor de uno de los atributos. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El conjunto de entidades que forman un tipo de objeto. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cada uno de los objetos particulares de una clase. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

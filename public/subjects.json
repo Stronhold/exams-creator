@@ -11,6 +11,14 @@
     {
       "name": "Lenguajes de marcas",
       "url": "marcas"
+    },
+    {
+      "name": "ingles",
+      "url": "ingles"
+    },
+    {
+      "name": "Entornos de desarrollo",
+      "url": "entornos"
     }
   ]
 }

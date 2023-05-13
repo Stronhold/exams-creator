@@ -1,0 +1,8 @@
+{
+  "tests": [
+    {
+      "name": "default",
+      "url": "entornos1"
+    }
+  ]
+}

@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "Choose the correct Imperative sentence:",
+      "opciones": [
+        {
+          "texto": "Stayed still!",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Stay still!",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Didn´t stay still!",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Stays still!",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct negative sentence with the verb Have Got.",
+      "opciones": [
+        {
+          "texto": "I haven’t any brothers or sister.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "I doesn’t have any brothers or sisters.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "I haven’t got any brothers or sisters.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "I don’t have got any brothers or sisters.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option in the Present Perfect Simple:",
+      "opciones": [
+        {
+          "texto": "She has forgot her phone number.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "She has forget her phone number,",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "She have forgot her phone number.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "She has forgotten her phone number.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option with the Past Simple:",
+      "opciones": [
+        {
+          "texto": "I works in a supermarket.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "I did work in a supermarket.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "I worked in a supermarket.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "I working in a supermarket,",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option:",
+      "opciones": [
+        {
+          "texto": "They making any progress right now.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "They aren’t making any progress right now.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "They aren’t any progress right now.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "They don’t make any progress right now.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option:",
+      "opciones": [
+        {
+          "texto": "She isn’t like fast food.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "She doesn’t like fast food.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "She don’t like fast food.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "She doesn’t liking fast food.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option:",
+      "opciones": [
+        {
+          "texto": "She is to old to vote",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "She is old enough to vote",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "She is enough old to vote",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "She is old too vote",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option:",
+      "opciones": [
+        {
+          "texto": "David were gave me this bike",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "I were given this bike from David",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "This bike was given to me by David",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "All the answers are correct",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct option: Ctrl + E is used to…",
+      "opciones": [
+        {
+          "texto": "Save the document",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Insert footnote",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Apply underline format",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Select the entire document",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct sentence with the verb To Be in the past:",
+      "opciones": [
+        {
+          "texto": "I were on the beach.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "I weren’t on the beach.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "I was on the beach.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "I is in the beach",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the correct sentence with the verb To Be in the present:",
+      "opciones": [
+        {
+          "texto": "He were a very good worker.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "He are a very good worker.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "He am a very good worker.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "He is a very good worker.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the right answer:",
+      "opciones": [
+        {
+          "texto": "I used to study French",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "They use to assemble computers",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "She didn’t used to like technology",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Did he used to play videogames?",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the right answer:",
+      "opciones": [
+        {
+          "texto": "Support specialists usually fix computer problems",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Support specialists fix computer problems usually.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Usually support specialists fix computer problems.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Support specialists fixes computer problems usually.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the right option",
+      "opciones": [
+        {
+          "texto": "She wish she were near home",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "She wishes she were near home.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "She wishes to being near home.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "She wishes be near home.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the right option of Reported Speech: “She worked the whole day yesterday”",
+      "opciones": [
+        {
+          "texto": "She said that she works the whole day yesterday.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "She told that she had worked the whole day yesterday.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "She said that she had worked the whole day the day before.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "She told that she had worked the whole day yesterday.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Choose the wrong answer:",
+      "opciones": [
+        {
+          "texto": "He is more tall than me.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "She is the most intelligent pupil in class.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Alcohol is as bad as tobacco.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "The faster you drive, the more dangerous it is.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence choosing the correct option.Right now, I am using my ___________ car because mine is broken.",
+      "opciones": [
+        {
+          "texto": "father's",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "fathers's",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "fathers",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "father'",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence choosing the right option:______________ any documents on the desk?",
+      "opciones": [
+        {
+          "texto": "There is",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Are there",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "There are",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Is there",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence with the correct conditional: “If I _______ you, I_________ a new car”.",
+      "opciones": [
+        {
+          "texto": "were/would buy",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "would be / would buy",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "am / would buy",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "were / buy",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence with the correct demonstrative: “Can you pass me _______ pencils over there, please?”",
+      "opciones": [
+        {
+          "texto": "this",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "that",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "these",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "those",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence with the correct Future expression: “I’m sure she____ pass the test”",
+      "opciones": [
+        {
+          "texto": "is going to",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "passes",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "will",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "are going to",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence with the correct options: “What______ about with the employee when I_________?”",
+      "opciones": [
+        {
+          "texto": "were you talking / arrived",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "you were talking / was arriving",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "did you talk / was arriving",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "you talked / arrived",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence with the Superlative form: “This car is the___________ and the _______ option.”",
+      "opciones": [
+        {
+          "texto": "best / cheapest",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "better / cheaper",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "best / cheaper",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "better / cheapest",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence: “Never expect __________ from ___________”",
+      "opciones": [
+        {
+          "texto": "Anything/ anyone",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Nothing / Anybody",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Something /Anyone",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Nothing /no-one",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the sentence: “There are ______ workstations in the office, but there is _____ space”.",
+      "opciones": [
+        {
+          "texto": "many/little",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "much/little",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "many/few",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "many/a few",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Complete the word with the right suffix: BROAD",
+      "opciones": [
+        {
+          "texto": "BYTE",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "WARE",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "BAND",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "PHONE",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Every time we drive __________ a tunnel I hold my breath:",
+      "opciones": [
+        {
+          "texto": "Along",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Across",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Over",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Through",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Phishing is…",
+      "opciones": [
+        {
+          "texto": "Deceiving individuals to gain private or personal information about that person",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Pretending you are someone you are not",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Releasing another person’s personal information without their permission",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Writing, creating or distributing malware.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "The hardware is…",
+      "opciones": [
+        {
+          "texto": "a language used to program computers.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "the physical and electronic parts of a computer.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "the instructions that control what a computer can do.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "none of the above.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "What does IP stands for?",
+      "opciones": [
+        {
+          "texto": "Internal Procedure",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Internal Protocol",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Internet Protocol",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Important Program",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "What is the name of the symbol “@”?",
+      "opciones": [
+        {
+          "texto": "At",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Ampersand",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Hash",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Asterisk",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which is an input device?",
+      "opciones": [
+        {
+          "texto": "Projector",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Speaker",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Mouse",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Printer",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which is not a part of the motherboard?",
+      "opciones": [
+        {
+          "texto": "The mainframe",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "The CPU",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "RAM memory",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "The heat sink",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which is the right answer?",
+      "opciones": [
+        {
+          "texto": "You must come to the meeting",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "You can coming to the meeting",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "You shoulds come to the meeting",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "You ought to comes to the meeting",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which is the right option?",
+      "opciones": [
+        {
+          "texto": "Mikel is such an interesting and amazed person",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Mikel is such an interesting and amazing person",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Mikel is such an interested and amazed person",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Mikel is such an interested and amazing person",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which of these is not a type of malicious software?",
+      "opciones": [
+        {
+          "texto": "Ransomware",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Spyware",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Hardware",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Adware",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which one is an application software?",
+      "opciones": [
+        {
+          "texto": "Linux",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Java",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Word",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "C++",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which one is not a word processor?",
+      "opciones": [
+        {
+          "texto": "Word",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "NotePad",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Powerpoint",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "WordPad",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Which one is the shortcut for undoing the previous action?",
+      "opciones": [
+        {
+          "texto": "Ctrl+Z",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Ctrl+Y",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Ctrl+S",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ctrl+X",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "__________ is your name? My name is Susan.",
+      "opciones": [
+        {
+          "texto": "Which",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Where",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Who",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "What",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}
