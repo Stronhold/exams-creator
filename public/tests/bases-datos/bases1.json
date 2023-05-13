@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "¿Cómo podemos representar y definir los datos en un sistema de información sin tener en cuenta las necesidades tecnológicas?",
+      "opciones": [
+        {
+          "texto": "Con un diagrama entidad/relación",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Con el diccionario de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Con Pseudocódigo",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Con un diagrama de cardinalidad.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿En qué bloque se incluyen las sentencias y estructuras de la lógica del procedimiento?",
+      "opciones": [
+        {
+          "texto": "En el bloque DECLARE",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "En el bloque BEGIN",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "En el bloque EXCEPTION",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Después de END",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Para qué sirven los índices?",
+      "opciones": [
+        {
+          "texto": "Para saber el número de entidades que hay.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Representa un índice de objetos de los metadatos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Permiten agilizar el acceso a un campo mediante la organizando su información",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Define la clave primaria de una entidad.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿PL/SQL es compatible con todos los SGBD?",
+      "opciones": [
+        {
+          "texto": "Sí, hay un estándar de aplicación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Sí, contiene estructuras que entienden todos los SGBD.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Sí.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "No, PL/SQL sirve para Oracle y PL/pgSQL para PostgreSQL",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué condición tiene que cumplir en la segunda forma normal (2FN)?:",
+      "opciones": [
+        {
+          "texto": "Puede tener valores atómicos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Debe estar en la primera forma normal.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Sus campos no dependen de la clave primaria.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Debe estar en la tercera forma normal.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué es un sistema gestor de base de datos?",
+      "opciones": [
+        {
+          "texto": "Un tipo de base de datos",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un software con herramientas de administración y gestión de base de datos",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Un software para programar una base de datos",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Un software de diseño de base de datos.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué instrucción necesitamos para ver la estructura de una tabla?",
+      "opciones": [
+        {
+          "texto": "DESC",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "ESTRUCT",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "SHOW TABLES",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "SHOW DATABASES",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué instrucción nos permite modificar una tabla?",
+      "opciones": [
+        {
+          "texto": "INSERT",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "UPDATE",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "DROP TABLE",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "ALTER TABLE",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Bucle preparado con un numero de repeticiones predeterminadas:",
+      "opciones": [
+        {
+          "texto": "Bucle básico LOOP.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Bucle con WHILE.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Bucle FOR.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Bucle ELSE.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "CREATE DATABASE nombre_bd; permite crear una base de datos empleando el lenguaje:",
+      "opciones": [
+        {
+          "texto": "DDL.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "DML.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "DCL.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuando hablamos de integridad referencial…",
+      "opciones": [
+        {
+          "texto": "No podemos borrar un registro que está relacionado con otra mediante su clave foránea.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Cualquier cambio en un registro que está relacionado se trasmite en cascada.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Establecer valores nulos en claves foráneas",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuando se almacena una dirección o puntero en vez del valor de la información, estamos hablando de:",
+      "opciones": [
+        {
+          "texto": "Datos físicos",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Referencias",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Herencia",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Datos extrapolados",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuando tenemos una transferencia de datos entre distintos SGBD",
+      "opciones": [
+        {
+          "texto": "No hay que preocuparse todos los SGDB tienen las mismas características",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un tipo de datos se usa igual independientemente del SGBD",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Solo se puede hacer entre el mismo tipo de base de datos",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Es una tarea importante, cada SGDB tiene diferentes características y hay que adaptarlas según el cambio.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El lenguaje más empleado en bases de datos es",
+      "opciones": [
+        {
+          "texto": "SUL.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "SDL.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "SFL.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "SQL. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es el lenguaje que usaremos para administrar la seguridad de los datos mediante permisos y usuarios.",
+      "opciones": [
+        {
+          "texto": "DDL.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "DML.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "DCL.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es un tipo de copia de seguridad",
+      "opciones": [
+        {
+          "texto": "Incompletas",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Decrementales",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Incrementales",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Existenciales. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es un tipo de modelo de base de datos",
+      "opciones": [
+        {
+          "texto": "Modelo relacional",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Modelo en red",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Modelo orientado a objetos",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es un tipo de organización de los soportes de almacenamiento",
+      "opciones": [
+        {
+          "texto": "Secuencial",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Aleatorio",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Multiplexado",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Concatenado",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es un tipo de relación",
+      "opciones": [
+        {
+          "texto": "Comunicativas",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Reflexivas",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Concatenarías",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Expresivas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es una consecuencia de las bases de datos objeto-relacionales:",
+      "opciones": [
+        {
+          "texto": "Que no tengamos campos atómicos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Que las tablas no sean elementos bidimensionales.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "A y B son correctas.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es una función de agregación o resumen",
+      "opciones": [
+        {
+          "texto": "RESTA()",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "MOD()",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "TOTAL()",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "COUNT()",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Estructura de control que emplea las sentencias IF y CASE:",
+      "opciones": [
+        {
+          "texto": "Selección.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Iteración.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Segmentación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Existen dos tipos de clave, la primaria y:",
+      "opciones": [
+        {
+          "texto": "La secundaria.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La exclusiva.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La jerarquizada.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "La candidata. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La clave primaria:",
+      "opciones": [
+        {
+          "texto": "Siempre es única.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puede ser tanto única como compuesta.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Se deriva de la clave secundaria.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La POO sirve para: ",
+      "opciones": [
+        {
+          "texto": "Que otros paradigmas se basen en esta. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Desarrollar solo software privativo",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Fallos de software. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La sentencia UPDATE nos permite:",
+      "opciones": [
+        {
+          "texto": "La consulta de registros sobre varias tablas.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La Eliminación de registros.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La modificación de registros.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Lenguaje que se centra en la consulta de información:",
+      "opciones": [
+        {
+          "texto": "DDL.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "DML.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "DCL.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Lo que en un modelo entidad/ relación es una entidad, en un modelo físico es llamado:",
+      "opciones": [
+        {
+          "texto": "Registro.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Entidad.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Tabla.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Tipo.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los fallos lógicos:",
+      "opciones": [
+        {
+          "texto": "Son los que se producen por fallos de software.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un virus es un fallo lógico.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "A Y B son correctas.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Son los que se producen por fallos de hardware. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los ficheros:",
+      "opciones": [
+        {
+          "texto": "Tienen su propio sistema de escritura.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Contienen texto plano.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Contienen código binario.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Puede contener tanto texto plano como binario.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "M:N es un concepto de:",
+      "opciones": [
+        {
+          "texto": "Las claves.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La cardinalidad.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "La modalidad.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Multidimensional.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "MySQL es:",
+      "opciones": [
+        {
+          "texto": "Un sublenguaje de SQL.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un tipo de base de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un SGBD.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para buscar un patrón de una cadena de caracteres usaremos...",
+      "opciones": [
+        {
+          "texto": "Se incluirá todos los casos posibles y se unirán con el operador lógico AND",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "BETWEEN",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "LIKE",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "No se puede buscar patrones de cadenas de caracteres",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para solucionar un fallo físico:",
+      "opciones": [
+        {
+          "texto": "Podemos tirar todo y comprar nuevos equipos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La gestión de los backups es una buena opción.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No es necesario recuperar un fallo físico.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "PL/SQL no puede soportar:",
+      "opciones": [
+        {
+          "texto": "DDL.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "DML.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Los dos anteriores.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que debemos tener en cuenta en la gestión de fallos lógicos en una base de datos",
+      "opciones": [
+        {
+          "texto": "Controlar los accesos a los servicios y recursos de las bases de datos, como al servidor propio.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Autenticación en el SGBD",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Gestión de perfiles y usuarios.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Se pueden usar para los subtipos y supertipos las cláusulas:",
+      "opciones": [
+        {
+          "texto": "NOT FINAL.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "FINAL.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "UNDER.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Si queremos seleccionar unos datos y que no estén repetidos …",
+      "opciones": [
+        {
+          "texto": "Tenemos que preocuparnos se insertar los datos que no estén repetidos",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Hay que incluir DISTINCT",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "En las bases de datos relacionales esto no puede suceder",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Se utilizará el operador <>",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un tipo que puede almacenar una colección es considerado como:",
+      "opciones": [
+        {
+          "texto": "Array",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Tablas",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Columnas",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Filas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "UNIQUE es:",
+      "opciones": [
+        {
+          "texto": "Una restricción en SQL se utiliza para garantizar que no se inserten valores duplicados en una columna.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Una restricción en SQL se utiliza para garantizar los valores tipo NULL.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Una restricción en SQL se utiliza para garantizar que no se inserten valores con un formato diferente al destinado.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

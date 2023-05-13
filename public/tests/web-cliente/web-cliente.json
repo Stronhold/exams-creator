@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "¿Javascript es case-sensitive (Sensible a mayúsculas y minúsculas)?",
+      "opciones": [
+        {
+          "texto": "No. Es lo mismo var nombre; que var Nombre;",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Si. No es lo mismo var nombre; que var Nombre;",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Según el contexto, solo es case-sensitive para datos númericos",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ningúna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué característica tiene los componentes de React?",
+      "opciones": [
+        {
+          "texto": "Poseen un estado (state)",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Poseen propiedades (props)",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Su nombre empieza con la primera letra en mayúsculas",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué elemento se tiene que cargar al principio de la aplicación de React?",
+      "opciones": [
+        {
+          "texto": "root",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "menu",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "layout",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "button",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué es jQuery?",
+      "opciones": [
+        {
+          "texto": "Es una biblioteca de Javascript con funciones de manipular el DOM.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Es un lenguaje de base de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es un elemento del DOM",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué es localStorage?",
+      "opciones": [
+        {
+          "texto": "Cookies",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Almacenamiento local",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Un tipo de variable",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Una ubicación de memoria",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué es un evento?",
+      "opciones": [
+        {
+          "texto": "Un acción concreta que se produce sobre un elemento",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Un cambio de valor en una variable en un momento dado.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Una llamada a una función",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Un tipo de instrucción en javascript",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué hace el método getElementById()?",
+      "opciones": [
+        {
+          "texto": "Obtiene un elemento según su identificador",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Obtiene un elemento según el nombre de su etiqueta",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Obtiene un elemento según el tipo de clase de estilo que utiliza",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguno de los anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué hace el objeto history del BOM?",
+      "opciones": [
+        {
+          "texto": "Muestra un histórico de cambios sobre la página HTML",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Permite cargar la página anterior o siguiente",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Muestra información del navegador",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Permite manejar la ventana del navegador.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué hace la función alert(“”);?",
+      "opciones": [
+        {
+          "texto": "Crea una alarma del reloj",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Muestra por el navegador un mensaje en un cuadro emergente.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Genera código HTML.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Muestra por el navegador la fecha y hora.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué hace la función load(url) de jQuery?",
+      "opciones": [
+        {
+          "texto": "Refresca la página web",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Carga datos del servidor",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Construye un objeto http",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué objeto tenemos que utilizar en una petición de AJAX?",
+      "opciones": [
+        {
+          "texto": "XMLHttpRequest",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "AJAXRequest",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "JSONRequest",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "DOMRequest",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué resultado da la siguiente instrucción “HOLA”.toLowerCase();?",
+      "opciones": [
+        {
+          "texto": "hola",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Hola",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "HOLA",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "HoLa",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo":"¿Qué significa la etiqueta \\x3Cscript>?",
+      "opciones": [
+        {
+          "texto": "El inicio de instrucciones de javascript",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Permite crear un enlace a otro fichero html",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El inicio de un archivo multimedia",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "El inicio de una macro.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué tipo de componentes nos encontramos en React según su uso?",
+      "opciones": [
+        {
+          "texto": "Contenedor y Presentación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Stateful, Stateless, Container, Presentational",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Stateful y Container.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "No hay tipos de componentes todos son iguales.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué tipo es la siguiente línea de código? var contacto = {nombre:”José”, edad:”20”}",
+      "opciones": [
+        {
+          "texto": "Es un array unidimensional",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es un array multidimensional",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es un objeto",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Es un enumerando",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "AJAX es empleado por:",
+      "opciones": [
+        {
+          "texto": "JavaScript para la comunicación asíncrona con el servidor.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "XML como hoja de estilo.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "HTML para la comunicación entre servidores.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "W3C para la creación de estándares CSS.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Appendchild() nos permite:",
+      "opciones": [
+        {
+          "texto": "Crear nodo tipo Element.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Crear nodo tipo Text.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Asociar nodos Element y Text.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Con JavaScript se pueden realizar diferentes funciones como:",
+      "opciones": [
+        {
+          "texto": "Modificar el contenido HTML de una web",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Cambiar atributos de objetos HTML",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Modificar el estilo de CSS",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "DOM hace referencia a:",
+      "opciones": [
+        {
+          "texto": "Development Of Model.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Development Object Model",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Document Of Model.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Document Object Model",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El código de javascript nos lo podemos encontrar",
+      "opciones": [
+        {
+          "texto": "En el mismo fichero HTML",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "En ficheros separados",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La opción A y B son correctas.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El siguiente código qué representa:\\n\\n",
+      "opciones": [
+        {
+          "texto": "Un XML.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un JSON.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Instrucciones de javascript.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Etiquetas HTML.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En AJAX, DOM permite:",
+      "opciones": [
+        {
+          "texto": "La interacción y manipulación dinámica de la presentación.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Crear una presentación basada en estándares.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El intercambio y la manipulación de información.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Existen una serie de funciones globales en JavaScript como:",
+      "opciones": [
+        {
+          "texto": "setl().",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "cedfer().",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "eval().",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Indica que tipo de evento no es correcto",
+      "opciones": [
+        {
+          "texto": "Mover el ratón",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Pulsar una tecla",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cerrar el navegador",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Cargar la página web",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Indica si el objeto es un array:",
+      "opciones": [
+        {
+          "texto": "isArray().",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "slice().",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "push().",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "shift().",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "JSON es:",
+      "opciones": [
+        {
+          "texto": "Una alternativa a XML.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un formato de texto para el intercambio de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un formato de texto de JavaScript.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "JSX:",
+      "opciones": [
+        {
+          "texto": "Crea elementos React mediante el manejo de eventos.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "No permite la valoración de datos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "No posee mensajes de error.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Solo la primera y segunda son correctas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las cookies se definen como:",
+      "opciones": [
+        {
+          "texto": "Función que recurre continuamente a ella misma hasta obtener una solución.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Elementos que se definen e interactúan en la función.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Almacenamiento\\n de información generada por la navegación en una página web cuyas \\nfunciones consisten en recordar el acceso a una página web y la \\nevaluación de los hábitos de navegación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Adquisición de la actividad en la web de forma diferente a las cookies.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las instrucciones de JavaScript terminan en:",
+      "opciones": [
+        {
+          "texto": "Comillas",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Punto y coma",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Sin nada",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Coma",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los comentarios se pueden definir en JavaScript como:",
+      "opciones": [
+        {
+          "texto": "//Comentario",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "/*Comentario*/",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "A y B son correctas",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "< !--Comentario-- >",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los identificadores de las variables ¿Cómo deben empezar?",
+      "opciones": [
+        {
+          "texto": "Letra",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Barra baja (_)",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Símbolo dólar ($)",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Nodo de cada etiqueta. Pueden tener atributos y otros nodos:",
+      "opciones": [
+        {
+          "texto": "Element.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Browser.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Location.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para eliminar un nodo podemos emplear:",
+      "opciones": [
+        {
+          "texto": "Eliminatechild().",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ridchild()",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "removechild().",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguno de los anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "React es para JavaScript:",
+      "opciones": [
+        {
+          "texto": "Una librería.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Una hoja de estilo.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un programa de compilación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Si se quiere obtener solo la hora ¿Qué método emplearías?",
+      "opciones": [
+        {
+          "texto": "new Date()",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "new Time()",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "getHours()",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "getHora()",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un comando para obtener un mensaje en la consola web desde JavaScript es:",
+      "opciones": [
+        {
+          "texto": "Console.log()",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Document.write()",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Windows.alert()",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Alert()",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un lenguaje de programación que da dinamismo a la web y se combina con el código HTML es:",
+      "opciones": [
+        {
+          "texto": "CSS",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "HTML",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "JavaScript",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguno",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un objeto en JavaScript es:",
+      "opciones": [
+        {
+          "texto": "Una forma de organización de elementos en JS",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Un valor que no existe",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un código definido por el elemento function",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una variable en JavaScript se puede definir con la/s etiqueta/s:",
+      "opciones": [
+        {
+          "texto": "Var",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Let",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Const",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Virtual DOM es un concepto de:",
+      "opciones": [
+        {
+          "texto": "JavaScript.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "React.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "C++.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

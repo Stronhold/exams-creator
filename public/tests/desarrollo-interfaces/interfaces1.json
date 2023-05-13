@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "¿Cuál de estas características es común a Illustrator y Photoshop?:",
+      "opciones": [
+        {
+          "texto": "Empleo de múltiples capas.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Inclusión de filtros, efectos, etc. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Permite la creación de una imagen desde cero.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Cuál de estas secciones contiene los metadatos de un informe?:",
+      "opciones": [
+        {
+          "texto": "Page Header.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Column Header.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Column footer.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Qué actividad ha hecho destacar el lenguaje XML?:",
+      "opciones": [
+        {
+          "texto": "La representación de metadatos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Medios de intercambio de contenidos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Almacenamiento de contenidos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "A qué dos fases pueden pasar un proyecto tras la etapa de planificación:",
+      "opciones": [
+        {
+          "texto": "Diseño y puesta en producción",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puesta en producción y mantenimiento",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Diseño e implementación",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Planificación y diseño",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "A qué nos referimos con Ámbito :",
+      "opciones": [
+        {
+          "texto": "Atributo que permite la modificación de valores.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Determina en que parte de un programa un componente puede ser usado.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Almacenan valores internos para el uso de la clase u objeto mismo.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de esto no es un formato empleado por los ficheros de ayuda:",
+      "opciones": [
+        {
+          "texto": "IPJ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "HLP",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "IPF",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "CHM",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de las siguientes herramientas se utiliza para las pruebas automáticas:",
+      "opciones": [
+        {
+          "texto": "Visual Studio",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "JUnit.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Chrome",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Eclipse.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de los siguientes no es un listener:",
+      "opciones": [
+        {
+          "texto": "KeyListener.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "MotionKeyListener.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "ActionListener.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "CustomLayout permite establecer elementos:",
+      "opciones": [
+        {
+          "texto": "En una rejilla libre.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Con un botón central y otro en cada borde.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "En elementos contiguos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El componente que permite incorporar un boton es:",
+      "opciones": [
+        {
+          "texto": "JButton.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "JLabel.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "JCheckBox",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "JComboBox",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El diseño gráfico: ",
+      "opciones": [
+        {
+          "texto": "Cumple una función puramente estética. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puede poseer funcionalidad dentro de la interfaz si se usa bien.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Es innecesario y debe evitarse.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El sistema de control se lleva a cabo en:",
+      "opciones": [
+        {
+          "texto": "Durante la implementación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Tras la creación de todos los módulos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Durante toda la creación del proyecto.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Tras la creación completa del proyecto.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En SQL qué clausula se utiliza para especificar alguna condición de búsqueda:",
+      "opciones": [
+        {
+          "texto": "FROM.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "SELECT.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "WHERE.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "SEARCH.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Guía de referencia: ",
+      "opciones": [
+        {
+          "texto": "Documentación para usuarios sin conocimiento técnico con instrucciones sobre el uso de las aplicaciones.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Documentación sobre un problema o proceso concreto.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Documentación para usuarios con conocimiento técnico sobre diversos errores y sus soluciones.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Documento que contiene información sobre la resolución de un problema de la aplicación.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Illustrator es una aplicación especializada en:",
+      "opciones": [
+        {
+          "texto": "La visualización de imágenes.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La edición de imágenes.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La creación de imágenes.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La compresión de la imagen:",
+      "opciones": [
+        {
+          "texto": "Produce siempre una pérdida de calidad.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puede producir pérdida de calidad o no según el medio empleado y el formato.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No produce pérdida de calidad.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Produce pérdida de calidad, pero se puede recuperar si se descomprime.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La cualidad del color que se usa para describir que tan claro u oscuro puede ser:",
+      "opciones": [
+        {
+          "texto": "Saturación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Matiz. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Brillo.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Opacidad",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La documentación posee las siguientes características:",
+      "opciones": [
+        {
+          "texto": "Ser una guía para los desarrolladores y otros agentes que se incorporan al proyecto.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ser un registro para evitar errores en futuros proyectos.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Ser elemento de control que permite saber los cambios realizados por cada uno de los agentes.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La Documentación técnica interna hace referencia a:",
+      "opciones": [
+        {
+          "texto": "El análisis de los resultados de las pruebas de la aplicación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El histórico de proyectos anteriores.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "La documentación referente al presupuesto empleado.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La evaluación heurística:",
+      "opciones": [
+        {
+          "texto": "Es llevado a cabo por los propios usuarios.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es llevado a cabo por profesionales. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Es llevado a cabo por usuarios beta tester.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "No es un tipo de evaluación. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La firma digital tiene un método de codificación asimétrico que consta de dos claves denominadas:",
+      "opciones": [
+        {
+          "texto": "Pública y restringida.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Accesible y restringida. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Visible y privada.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Pública y privada.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La resolución se determina por:",
+      "opciones": [
+        {
+          "texto": "Las ppp.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Las ppc.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Las pcr.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Las ppp divididas por el tamaño de la imagen.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La sindicalización de contenidos usa el lenguaje:",
+      "opciones": [
+        {
+          "texto": "XHTML.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "XSLT.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "SVG.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "RSS.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las aplicaciones pueden poseer:",
+      "opciones": [
+        {
+          "texto": "Librerías.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ejecutables.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Elementos multimedia.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los colores:",
+      "opciones": [
+        {
+          "texto": "No influyen en gran medida.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No conviene usar una única paleta de color. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Puede causar sensaciones y emociones según la paleta de color.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los eventos pueden ser, según su origen, de dos tipos:",
+      "opciones": [
+        {
+          "texto": "Simples o complejos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Nativos o extranjeros.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Externos e internos.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ascendentes o descendentes. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los eventos: ",
+      "opciones": [
+        {
+          "texto": "Son acciones que un programa detecta. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Son elementos que se ejecutan automáticamente. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Son elementos contenedores. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Son tipos de páginas secundarias. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los informes generados a través de la propia aplicación son llamados:",
+      "opciones": [
+        {
+          "texto": "Indexados.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No indexados.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Incrustados.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "No incrustados.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los layout son:",
+      "opciones": [
+        {
+          "texto": "Son acciones que un programa detecta. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Son elementos que se ejecutan automáticamente. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Son elementos contenedores. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Son tipos de páginas secundarias. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "MouseReleased es un evento que sucede cuando:",
+      "opciones": [
+        {
+          "texto": "Este evento se produce al colocar el puntero sobre un elemento.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Este evento se produce al soltar los botones del ratón. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Este evento se produce al hacer clic con el botón izquierdo del ratón sobre el control.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué gráfico es adecuado para expresar porcentajes:",
+      "opciones": [
+        {
+          "texto": "Gráficas de barras verticales.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Gráficas de barras horizontales.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Gráficas de líneas.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Gráficas circulares.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué organización crea estándares internacionales: ",
+      "opciones": [
+        {
+          "texto": "ISE.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "ISO.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "ESO.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "ISOS.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que es el sistema hexadecimal:",
+      "opciones": [
+        {
+          "texto": "Un sistema lingüístico que tan solo emplea como cifras “0” y “1”.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Sistema de numeración con base en el número 6.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Sistema de numeración con base en el número 16.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Sistema de numeración con base en el número 60. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que son las pruebas de caja blanca :",
+      "opciones": [
+        {
+          "texto": "Pruebas llevadas a cabo por los usuarios.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Pruebas llevadas a cabo por herramientas.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Pruebas que se llevan a cabo sobre el código.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que tipos de etiquetas usa XML:",
+      "opciones": [
+        {
+          "texto": "De entrada, cierre y corte.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "De apertura, cierre y limitadas. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "De apertura, corte y vacías.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Señala la opción incorrecta sobre una imagen vectorizada: ",
+      "opciones": [
+        {
+          "texto": "Está formada mediante un conjunto de puntos de color llamados píxeles.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Se recomienda para iconos",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "No perderá calidad cuando su tamaño se agrande o se acerque la imagen.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un asistente de instalación:",
+      "opciones": [
+        {
+          "texto": "Da una mayor libertad dándonos más opciones para que los usuarios elijan.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Permite una instalación rápida y sencilla, pero limitando el acceso acciones para usuarios novatos.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Permite el empaquetado de archivos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un ejecutable: ",
+      "opciones": [
+        {
+          "texto": "Archivo binario que es interpretado como un programa por el ordenador.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Paquete usado en sistemas basados en Debian, como Ubuntu o Kubuntu.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Paquetes sin compresión destinados a una lectura lineal e indivisible.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una de las herramientas más empleadas para la creación de interfaces es:",
+      "opciones": [
+        {
+          "texto": "El prototipo.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "El diseño gráfico.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El empleo de computadoras de alta gama.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una versión ALFA:",
+      "opciones": [
+        {
+          "texto": "Es una versión destinada a pruebas por parte de los desarrolladores.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Es la primera versión que se entrega al cliente.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es la última versión del proyecto y se implementa como definitiva.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

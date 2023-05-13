@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "A qué denominamos wireframe : ",
+      "opciones": [
+        {
+          "texto": "Un tipo de elemento de unión entre índices. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un tipo de boceto.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Un tipo de aplicación de corrección para páginas web.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "A qué dos fases pueden pasar un proyecto tras la etapa de planificación:",
+      "opciones": [
+        {
+          "texto": "Diseño y puesta en producción",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puesta en producción y mantenimiento",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Diseño e implementación",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Planificación y diseño",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Algoritmo que permite reducir el tamaño de un audio:",
+      "opciones": [
+        {
+          "texto": "Dalek.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "HZF.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "VBR.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Códec.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Como se denomina el selector que utiliza este símbolo *:",
+      "opciones": [
+        {
+          "texto": "Selector descendente",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Selector universal",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Selector de clase",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Como\\n se denomina la fase donde se lleva a la practica los elementos \\nplaneados con anterioridad en el proceso de desarrollo de interfaces.",
+      "opciones": [
+        {
+          "texto": "Fase de desarrollo.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Fase de diseño ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Fase de implementación.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Fase de puesta en producción",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Con que propiedad cambiamos el estilo de nuestra fuente",
+      "opciones": [
+        {
+          "texto": "Font-weight.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Font-family",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Font-style",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Font-align.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de estas no es un valor de transition-timing-function:",
+      "opciones": [
+        {
+          "texto": "Ease-in.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ease-out-in.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Ease-out.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ease-in-out.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de estas no es una de las nuevas etiquetas de HTML5:",
+      "opciones": [
+        {
+          "texto": "article",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "section",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "mark",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "div",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El atributo = [atributos*=“valor”] designa:",
+      "opciones": [
+        {
+          "texto": "Seleccionar aquellos elementos cuyo atributo empiece por el valor indicado.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Seleccionar aquellos elementos cuyo atributo termine por el valor indicado.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Seleccionar aquellos elementos cuyo atributo contenga el valor indicado.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El atributo HREF se emplea para:",
+      "opciones": [
+        {
+          "texto": "Cambiar el formato de un texto.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Seleccionar la orientación de un texto. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Crear enlaces.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El background-color se puede definir con qué sistema de color:",
+      "opciones": [
+        {
+          "texto": "Código hexadecimal.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Código RGB.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Nombre del color",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El diseño gráfico: ",
+      "opciones": [
+        {
+          "texto": "Cumple una función puramente estética. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puede poseer funcionalidad dentro de la interfaz si se usa bien.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Es innecesario y debe evitarse.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El sketching:",
+      "opciones": [
+        {
+          "texto": "Es un diseño completo que se realiza tras el prototipo a ordenador.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es un diseño, en papel u ordenador, que ya incluye los elementos que el prototipo contendrá.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es un diseño inicial a ordenador que incluye los elementos y se realiza tras el wireframing.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En el sistema RGB:",
+      "opciones": [
+        {
+          "texto": "Los tonos de los colores aditivos se numeran de 0 a 255.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Los tonos de los colores no aditivos se numeran de 0 a 255",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Los tonos de los colores aditivos se numeran de 1 a 256.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Los tonos de los colores no aditivos se numeran de 1 a 256 ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Gif:",
+      "opciones": [
+        {
+          "texto": "Es un formato de imagen que admite 24 bits de color.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es un formato de imagen de gran tamaño.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es un formato de imagen que admite animación.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Gif no es formato de imagen.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La compresión de la imagen:",
+      "opciones": [
+        {
+          "texto": "Produce siempre una pérdida de calidad.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Puede producir pérdida de calidad o no según el medio empleado y el formato.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No produce pérdida de calidad.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Produce pérdida de calidad, pero se puede recuperar si se descomprime.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La etiqueta CheckBox permite:",
+      "opciones": [
+        {
+          "texto": "Crear una lista desplegable.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Crear hipervínculos. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Crear opciones para marcar",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La evaluación heurística:",
+      "opciones": [
+        {
+          "texto": "Es llevado a cabo por los propios usuarios.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es llevado a cabo por profesionales. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Es llevado a cabo por usuarios beta tester.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "No es un tipo de evaluación.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La propiedad de video que permite reproducir un video automaticamente:",
+      "opciones": [
+        {
+          "texto": "Autoplay.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Bucl.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Loop",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Wmv.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La propiedad transition nos permite:",
+      "opciones": [
+        {
+          "texto": "Introducir instrucciones @keyframes.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Modificar la velocidad entre los estados de animación.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Controlar las transiciones de los diferentes segmentos de una animación.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La resolución se determina por:",
+      "opciones": [
+        {
+          "texto": "Las ppp.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Las ppc.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Las pcr.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Las ppp divididas por el tamaño de la imagen.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las etiquetas < tr > determinan:",
+      "opciones": [
+        {
+          "texto": "Filas de tablas.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Columnas de tablas.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Encabezados.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Celdas individuales de tablas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las zonas de una página web son: ",
+      "opciones": [
+        {
+          "texto": "De navegación y de footer. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "De índices y de menús. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "De navegación y de cuerpo. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "De navegación y de índices. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los colores complementarios son los opuestos en un círculo cromático por su:",
+      "opciones": [
+        {
+          "texto": "Saturación.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Matiz. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Brillo.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Saturación, pero no son opuestos en el círculo sino contiguos. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los colores seguros:",
+      "opciones": [
+        {
+          "texto": "Representación de los colores totales que el ojo humano es capaz de percibir.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Colores que no cambian su representación sin importar el navegador, sistema operativo o navegador.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No existen los colores seguros.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los dos elementos que conforman una regla son:",
+      "opciones": [
+        {
+          "texto": "Bloques de declaración y bloques de estilo.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Selectores e identificadores.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Declaraciones y selectores.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los selectores descendentes suelen emplearse:",
+      "opciones": [
+        {
+          "texto": "Por sí mismos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "En combinación con otros tipos de selectores. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No existen los selectores descendentes, se denominan ascendentes.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "En combinación exclusivamente con los selectores universales.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los valores de la opacidad de color varían entre:",
+      "opciones": [
+        {
+          "texto": "0 y 1.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "0 y 10.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "1 y 10.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "1 y 100",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para añadir una hoja de estilo externa a un documento HTML introduciremos: ",
+      "opciones": [
+        {
+          "texto": "<link rel=\"stylesheet\" media=\"archivo.css\">",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "<link rel=\"css\" href=\"archivo.css\">",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "<link rel=\"import\" media=\"archivo.css\">",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "<link rel=\"stylesheet\" href=\"archivo.css\">",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para agregar el estilo definido de la siguiente manera “.ColorAzul” Como lo asignaremos a una etiqueta.",
+      "opciones": [
+        {
+          "texto": "class=”ColorAzul”",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "class=”#ColorAzul”",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "id=”ColorAzul”",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "id=”.ColorAzul”",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para asociar un tamaño a alguna propiedad de CSS que formato podemos utilizar",
+      "opciones": [
+        {
+          "texto": "Pixeles (px)",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Medida de pantalla(cm,mm….)",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Porcentaje de visualizador (%)",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para cambiar el grosor de una línea con Text-decoration debe ir acompañado de:",
+      "opciones": [
+        {
+          "texto": "color.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "style.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "thickness.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Photoshop es una aplicación especializada en:",
+      "opciones": [
+        {
+          "texto": "La visualización de imágenes.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La edición de imágenes.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "La creación de imágenes.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que propiedad nos permite controlar los diferentes segmentos de una animación.",
+      "opciones": [
+        {
+          "texto": "animation",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "transition",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "steps",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Que son los layouts:",
+      "opciones": [
+        {
+          "texto": "Son aplicaciones para la creación de páginas web.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Son diseños básicos, en papel, con los que establecer objetivos y jerarquías.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Bloques o partes comunes en el diseño de páginas web.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Señala la opción incorrecta sobre una imagen vectorizada: ",
+      "opciones": [
+        {
+          "texto": "Está formada mediante un conjunto de puntos de color llamados píxeles.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Se recomienda para iconos",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "No perderá calidad cuando su tamaño se agrande o se acerque la imagen.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Según el estándar W3C el código de una aplicación debe ser robusto:",
+      "opciones": [
+        {
+          "texto": "Mentira, debe ser ligero para que el tamaño del archivo sea menor.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Verdad, con el fin de que no se produzcan fallos de compatibilidad.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Verdad, para que sea fácilmente compatible.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Si indicamos como Text-align:right el texto estará alineado a la:",
+      "opciones": [
+        {
+          "texto": "Izquierda.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Derecha.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Centrado.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Justificado.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una de las herramientas más empleadas para la creación de interfaces es:",
+      "opciones": [
+        {
+          "texto": "El prototipo.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "El diseño gráfico.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El empleo de computadoras de alta gama.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "“padding” te permite:",
+      "opciones": [
+        {
+          "texto": "Especificar la distancia entre los límites de las cajas.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Especificar el formato de los encabezados.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Especificar el tamaño de las sombras.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Especificar los bordes de las sombras.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

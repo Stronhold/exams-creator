@@ -19,6 +19,22 @@
     {
       "name": "Entornos de desarrollo",
       "url": "entornos"
+    },
+    {
+      "name": "Diseño de interfaces WEB",
+      "url": "interfaces-web"
+    },
+    {
+      "name": "Web cliente",
+      "url": "web-cliente"
+    },
+    {
+      "name": "Desarrollo de interfaces",
+      "url": "desarrollo-interfaces"
+    },
+    {
+      "name": "Bases de datos",
+      "url": "bases-datos"
     }
   ]
 }
