@@ -1,0 +1,1004 @@
+{
+  "preguntas": [
+    {
+      "titulo": "¿Qué es XQuery?",
+      "opciones": [
+        {
+          "texto": "Lenguaje de consultas especializado en datos XML.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Lenguaje de procesamiento de documentos XML.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Lenguaje de verificación empleado por DTD",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrecta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Como se denomina  el elemento que modifica una etiqueta ",
+      "opciones": [
+        {
+          "texto": "Elemento.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Gramática.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Etiqueta.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Atributo.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Con que programa podemos crear un documento HTML",
+      "opciones": [
+        {
+          "texto": "Kompozer",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Bloc de Notas.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "HTML Online Editor.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "CSS son las siglas de:",
+      "opciones": [
+        {
+          "texto": "Code Sheets Style.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Code Style Sheets.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cascading Style Sheets.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Cascading Sheets Style.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de las siguientes extensiones no corresponde con un archivo de lenguaje de marcas:",
+      "opciones": [
+        {
+          "texto": ".txt.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": ".css.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": ".html.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": ".xml.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de las siguientes opciones no es una etiqueta específica",
+      "opciones": [
+        {
+          "texto": "<xsl:value-of>",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "<xsl:for-each>",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "<xsl:boolean›",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "<xsl:choose>",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál de los siguientes no es un formato para el intercambio y almacenamiento de los datos:",
+      "opciones": [
+        {
+          "texto": "Ficheros CSV. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ficheros TIFF. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Ficheros XML. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Fichero PDF.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Cuál es el símbolo faltante, marcado con (…), en esta etiqueta xsl, <xsl(...)value-of:",
+      "opciones": [
+        {
+          "texto": "=, igual.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "?, interrogación.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "_, barra baja.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": ":, Dos puntos.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Documento que permite validar un documento XML: ",
+      "opciones": [
+        {
+          "texto": "DTD.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "OS/2.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "SASS.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "DTD es:",
+      "opciones": [
+        {
+          "texto": "Un sistema numérico.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un tipo de atributo.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un documento de verificación.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Un tipo de etiqueta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El  atributo CDATA  de DTD implica que el valor:",
+      "opciones": [
+        {
+          "texto": "Es un contenido único e inequívoco.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Refiere a otro elemento ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es alfanumérico.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El módulo encargado de permitir la venta online mediante el pago electrónico es:",
+      "opciones": [
+        {
+          "texto": "Módulo de TPV. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Módulo de Marketing. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Módulo de proyectos. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Módulo de gestión de almacenes. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El valor #IMPLIED de DTD implica que el valor:",
+      "opciones": [
+        {
+          "texto": "Es obligatorio.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Es opcional. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Es fijo.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Elementos básicos de un feed que se deben introducir en channel: ",
+      "opciones": [
+        {
+          "texto": "Title, link y URL. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Title, link e imagen. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Title, URL y description. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Title, link y description. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En el lenguaje XPath usa expresiones de ruta como  “/” el cual permite la selección de:",
+      "opciones": [
+        {
+          "texto": "El nodo con un nombre específico.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El nodo raíz.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Selecciona el nodo actual.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En esta regla de CSS:  h2 { color: #B6E1F9;\\n} como llamamos al elemento “color”",
+      "opciones": [
+        {
+          "texto": "Selector",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Declaración",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Propiedad.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Valor",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En HTML la etiqueta <link> determina:",
+      "opciones": [
+        {
+          "texto": "La versión.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Estándar empleado.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Recursos externos, hojas de estilo, empleados.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Estilos empleados.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En las hojas de estilo XSL el símbolo / en solitario indica:",
+      "opciones": [
+        {
+          "texto": "Un comentario.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un atributo.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un valor.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todos los anteriores son correctos.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En XML los valores siempre deben:",
+      "opciones": [
+        {
+          "texto": "Ser numéricos.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Entrecomillarse.",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Ir entre símbolos de igual.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Acotarse con los símbolos “<” y “>”.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En XPath “|”  permite:",
+      "opciones": [
+        {
+          "texto": "Computar dos nodos simultáneos.",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Dividir los valores de dos nodos. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Marcar una disyunción entre uno o más nodos entre los que elegir.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta ese símbolo no se emplea.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Entre los elementos secundarios de channel, el elemento ttl: ",
+      "opciones": [
+        {
+          "texto": "Marca la fecha de publicación. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "El tipo de licencia.  ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Marca el tiempo de actualización en el caché. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "HTML son las siglas de:",
+      "opciones": [
+        {
+          "texto": "Hypertext Markup Language",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Hypertext Medium Language.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Hyperlink  Meta  List.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Hiperlink Mask Line",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La estructura de XML consta de:",
+      "opciones": [
+        {
+          "texto": "Prólogo y directorio.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "&IACUTE;ndice y cuerpo.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Prólogo y cuerpo.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La información XML se puede almacenar en forma de:",
+      "opciones": [
+        {
+          "texto": "Ficheros.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "XML enabled. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Bases de datos nativas en XML.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La seguridad de los ERP:",
+      "opciones": [
+        {
+          "texto": "No es muy alta, por lo que se deben implementar medidas por parte de la empresa. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No es muy alta, pero un mínimo cuidado por parte de la empresa es suficiente. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Es muy alta, por lo que no requiere de otras medidas por parte de la empresa. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Es muy alta, pero, además, se recomienda que la empresa tome sus propias medidas de seguridad adicional",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La sintaxis FLOWR es un acrónimo de For, Let, Where, Order by y….",
+      "opciones": [
+        {
+          "texto": "Rearrange.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "React. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Return.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Remove.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las bases de datos XML enabled son: ",
+      "opciones": [
+        {
+          "texto": "Bases de datos no nativas. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Bases de datos relacionales. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Bases de datos que trabajan con XML. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las marcas de cierre:",
+      "opciones": [
+        {
+          "texto": "Son iguales que las de apertura.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Se marcan con ?.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Se marcan con =.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Se marcan con /.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los agregadores pueden ser: ",
+      "opciones": [
+        {
+          "texto": "Online. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "De escritorio. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "De clientes de correo web y navegadores web. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.  ",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los lenguajes de marcas se pueden utilizar en:",
+      "opciones": [
+        {
+          "texto": "Páginas web.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Mensajería instantánea.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Sindicación de contenidos.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los lenguajes XML y HTMLS se incluyen en el tipo de lenguaje:",
+      "opciones": [
+        {
+          "texto": "Tipo 1 o de procedimiento.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Tipo 2 o de presentación.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Tipo 3 o descriptivos o semánticos.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "En todos los anteriores.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los sistemas de gestión empresarial requieren de múltiples herramientas, por lo que: ",
+      "opciones": [
+        {
+          "texto": "Se recomienda emplear múltiples herramientas específicas individuales. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Se recomiendo realizarlo todo en una única herramienta, aunque no sea lo ideal. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Se recomienda emplear un único sistema con diversas herramientas incorporadas, para evitar problemas de incompatibilidad. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Lo sistemas de gestión empresarial deben hacer uso de una única herramienta. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los tres pilares de los CRM son: ",
+      "opciones": [
+        {
+          "texto": "Marketing, venta y servicio postventa. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Marketing, compra y servicio postventa. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Marketing, venta y análisis. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Marketing, compra y análisis.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué debe incluir el prólogo del documento XML",
+      "opciones": [
+        {
+          "texto": "Presentación",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Versión y codificación",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Estructura del documento",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna es correcta",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué tipo de estructura jerárquica tiene un documento XML",
+      "opciones": [
+        {
+          "texto": "Estructura ascendente arbórea.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Estructura descendente canórea.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Estructura descendente arbórea.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ninguna de las anteriores es correcta.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué tipo de sindicación se utiliza en este documento XML.\\n\\n",
+      "opciones": [
+        {
+          "texto": "FeedTe. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "RSS. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "ATOM. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Todos los anteriores son incorrectos. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "RSS hace referencia a: ",
+      "opciones": [
+        {
+          "texto": "Really Simple Syndication. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Real Sindication Simple . ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Real Sindicate Simplified. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un texto que se encuentra en un símbolo menor que (<) y otro símbolo mayor que (>) se denomina:",
+      "opciones": [
+        {
+          "texto": "Elemento.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Gramática.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Etiqueta.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Atributo.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "XSL-FOR son las siglas de:",
+      "opciones": [
+        {
+          "texto": "extensible stylesheet language formatting.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "extensible stylesheet language formatting objects reload.",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "XML stylesheets language for transformation.",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "XSL-FOR no existe.",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "XSLT requiere la entrada de:",
+      "opciones": [
+        {
+          "texto": "Una hoja de estilo.",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Dos hojas de estilo. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Una hoja de estilo y un documento XML.",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Dos documentos XML.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    }
+  ]
+}
