@@ -1,43 +1,1002 @@
 {
   "preguntas": [
     {
-      "titulo": "Selecciona la true",
+      "titulo": "¿Cómo se llama la consola de Windows que permite administrar usuarios?",
       "opciones": [
         {
-          "texto": "False",
+          "texto": "Lusmgr.msc",
           "esCorrecta": false,
           "value": 1
         },
         {
-          "texto": "True",
-          "esCorrecta": true,
+          "texto": "Lusrmgr.mcs",
+          "esCorrecta": false,
           "value": 2
         },
         {
-          "texto": "False",
-          "esCorrecta": false,
+          "texto": "Lusrmgr.msc",
+          "esCorrecta": true,
           "value": 3
+        },
+        {
+          "texto": "No se pueden administrar usuarios en Windows mediante consolas",
+          "esCorrecta": false,
+          "value": 4
         }
       ]
     },
     {
-
-      "titulo": "Selecciona la false",
+      "titulo": "¿En qué fichero se almacenan las contraseñas encriptadas de los usuarios?",
       "opciones": [
         {
-          "texto": "False",
-          "esCorrecta": true,
+          "texto": "/etc/passwd",
+          "esCorrecta": false,
           "value": 1
         },
         {
-          "texto": "True",
+          "texto": "/etc/shadow",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "/etc/password",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "/etc/users",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Se puede instalar Debian de manera gráfica?",
+      "opciones": [
+        {
+          "texto": "No",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Depende de la RAM asignada",
           "esCorrecta": false,
           "value": 2
         },
         {
-          "texto": "true",
+          "texto": "Depende de que versión se instale",
           "esCorrecta": false,
           "value": 3
+        },
+        {
+          "texto": "Sí",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "¿Se pueden restaurar copias de seguridad incrementales y diferenciales al mismo tiempo?",
+      "opciones": [
+        {
+          "texto": "Sí y debe de hacerse",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No se debe",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "No se pueden restaurar este tipo de copias bajo ningún concepto",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El comando cat hola > alumnos.txt añade contenido a un fichero y además…",
+      "opciones": [
+        {
+          "texto": "Lo borra",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Lo ejecuta",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Reescribe el contenido si ya tiene algo",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Lo añade a continuación si ya existe contenido en el fichero",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El directorio C:\\\\system32 pertenece a: ",
+      "opciones": [
+        {
+          "texto": "Windows. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Linux. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "GNU. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El\\n más dañino de todos los tipos de malware. Se usa para cifrar todo el \\nsistema y quitarles el acceso a los usuarios ya que no poseen la \\ncorrespondiente clave: ",
+      "opciones": [
+        {
+          "texto": "Scumware. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Exploit.  ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Ransomware. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Adware. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El procesador se describe como:  ",
+      "opciones": [
+        {
+          "texto": "Un\\n conjunto software del sistema operativo que debido a su gran \\nimportancia en la gestión del sistema no puede abandonar la memoria \\nprincipal. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La selección del orden de importancia de cada solicitud y de quien quiera hacer uso de esos recursos. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un recurso que posee varios núcleos con los que puede ejecutar varios procesos a la vez.  ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "El facilitador de la gestión de manera adecuada de los trabajos de impresión.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El protocolo POP3 es empleado en: ",
+      "opciones": [
+        {
+          "texto": "El correo electrónico. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Mensajería instantánea. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Transferencia de ficheros. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Software antimalware.",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El SID es: ",
+      "opciones": [
+        {
+          "texto": "Un código que da acceso al sistema. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Un sistema de autenticación de Windows. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Un identificador único asociado a un usuario. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Es lo mismo que el SAT. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El sistema de archivos estándar de Microsoft Windows: ",
+      "opciones": [
+        {
+          "texto": "FAT. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "NTFS. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "APFS. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "El tipo de red coaxial se basa en: ",
+      "opciones": [
+        {
+          "texto": "El espacio. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "La distribución.  ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "El cableado. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "El diseño. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "En Linux la opción “l” del comando ls: ",
+      "opciones": [
+        {
+          "texto": "Muestra el contenido en formato largo. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Ordena el contenido por fecha de modificación. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Invierte el orden de la salida. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Muestra el contenido oculto. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Es importante que un antivirus…",
+      "opciones": [
+        {
+          "texto": "Consuma mucha CPU",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "No se actualice",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Consuma poca memoria",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Ocupe mucho espacio en disco",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "exFat suele usarse en dispositivos…",
+      "opciones": [
+        {
+          "texto": "Portátiles",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Fijos",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "De Microsoft únicamente",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "FTP hace referencia a…",
+      "opciones": [
+        {
+          "texto": "File Transfer Protocol",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Found Transfer Protocol",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "File Transport Protocol",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "File Transfer Premium",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Indica cuál de los siguientes es un dispositivo de interconexión de red:",
+      "opciones": [
+        {
+          "texto": "RJ-45",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Ordenador",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Switch",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "BIOS",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Indica qué tipo de software es VMware Workstation:",
+      "opciones": [
+        {
+          "texto": "Software libre",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Software propietario",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Software totalmente gratuito",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son incorrectas",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La administración remota: ",
+      "opciones": [
+        {
+          "texto": "Solo se puede usar con una herramienta. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Viene incorporada en Windows mediante tres herramientas. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "No permite gestionar el equipo en temas de seguridad. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son correctas.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "La cabecera en IPv6 posee: ",
+      "opciones": [
+        {
+          "texto": "20 bytes. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "30 bytes. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "40 bytes. ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "50 bytes. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las placas base se guían por los:  ",
+      "opciones": [
+        {
+          "texto": "Factores de forma.  ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Zócalos del microprocesador.  ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Conectores internos.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Conectores externos.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las redes P2P hacen referencia a…",
+      "opciones": [
+        {
+          "texto": "Pair top pair",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Peer to peer",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Point to point",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Poe to poe",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Las tarjetas de red pueden ser:",
+      "opciones": [
+        {
+          "texto": "USB",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Inalámbricas",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Cableadas",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los permisos 0666 y 0777 son: ",
+      "opciones": [
+        {
+          "texto": "Los permisos originales y por defecto de un archivo y un directorio respectivamente. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Los permisos originales y por defecto de un directorio y un archivo respectivamente. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Los permisos no otorgables y por defecto de un archivo y un directorio respectivamente. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Los permisos no otorgables y por defecto de un directorio y un archivo respectivamente. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Los sistemas operativos distribuidos son una clasificación de un sistema operativo que responde a:  ",
+      "opciones": [
+        {
+          "texto": "El interfaz utilizado.  ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Cómo ofrecen los servicios.  ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "El tipo de procesamiento.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "El número de usuarios.   ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Para crear un directorio alumnos en Linux en la ruta actual usamos el comando…",
+      "opciones": [
+        {
+          "texto": "mkdir -r alumnos",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "mkdir alumnos",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "rmdir alumnos",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "rmdir -r alumnos",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Pro, Player y Fusion son versiones del siguiente software privativo de virtualización:  ",
+      "opciones": [
+        {
+          "texto": "VMWare Workstation.  ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "VritualBox.  ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "KVM.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Aviat Design.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Puede que sea importante realizar esta acción antes de instalar un sistema operativo:",
+      "opciones": [
+        {
+          "texto": "Copia de seguridad",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "Instalación nativa",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Instalación por red",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Instalación dual",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Qué tipo de aplicación es MySQL: ",
+      "opciones": [
+        {
+          "texto": "Procesador de texto. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Base de datos. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Presentación gráfica. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Si una BIOS enciende una luz LED para indicar un problema, es una señal…",
+      "opciones": [
+        {
+          "texto": "Sonora",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Visual",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Depende del color de la luz",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Una BIOS no puede emitir señales mediante LEDs",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un algoritmo simétrico es:",
+      "opciones": [
+        {
+          "texto": "RC2",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "AES",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "ICE",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas son correctas",
+          "esCorrecta": true,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un ejemplo de buen nombre para una máquina virtual es:",
+      "opciones": [
+        {
+          "texto": "VRSTFVM",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "VirtualBox",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Windows 10 – Cliente",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "Linux",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un hardware está formado, entre otros componentes, por:  ",
+      "opciones": [
+        {
+          "texto": "Bus de datos.  ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Microprocesador.  ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Host.  ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "VirtualBox.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un servidor debe de cumplir con estos tres aspectos: ",
+      "opciones": [
+        {
+          "texto": "Disponibilidad, calidad y mantenimiento. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Escalabilidad, mantenimiento y disponibilidad. ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Mantenimiento, disponibilidad y automatismo. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Disponibilidad, escalabilidad y gestión avanzada. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Un sistema multitarea:",
+      "opciones": [
+        {
+          "texto": "Trabaja con un solo proceso al mismo tiempo",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Trabaja con un solo proceso por usuario al mismo tiempo",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Trabaja con varios procesos al mismo tiempo",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "No gestiona más de dos procesos al mismo tiempo",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una de las distribuciones que se emplean de manera específica en los sistemas Linux es:  ",
+      "opciones": [
+        {
+          "texto": "Windows Pro",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "MacOS X",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "Ubuntu Desktop.  ",
+          "esCorrecta": true,
+          "value": 3
+        },
+        {
+          "texto": "FreeBSD.  ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Una NIC también se puede llamar:",
+      "opciones": [
+        {
+          "texto": "Adaptador de vídeo",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Adaptador de internet",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Tarjeta de sonido",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Adaptador de corriente de internet",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Usaremos este comando para cambiar los permisos en Linux: ",
+      "opciones": [
+        {
+          "texto": "chmod. ",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "umask. ",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "umod. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Todas las anteriores son incorrectas. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Usuario que tiene el privilegio necesario para efectuar cambios en los ficheros de configuración: ",
+      "opciones": [
+        {
+          "texto": "Gestor. ",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Administrador.  ",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "Usuario. ",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Usuario avanzado. ",
+          "esCorrecta": false,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "titulo": "Versión de Microsoft Windows para dispositivos móviles;",
+      "opciones": [
+        {
+          "texto": "Server",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "Enterprise",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "IoT",
+          "esCorrecta": false,
+          "value": 3
+        },
+        {
+          "texto": "Mobile",
+          "esCorrecta": true,
+          "value": 4
         }
       ]
     }
