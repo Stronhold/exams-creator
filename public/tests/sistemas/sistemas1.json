@@ -1,0 +1,45 @@
+{
+  "preguntas": [
+    {
+      "titulo": "Selecciona la true",
+      "opciones": [
+        {
+          "texto": "False",
+          "esCorrecta": false,
+          "value": 1
+        },
+        {
+          "texto": "True",
+          "esCorrecta": true,
+          "value": 2
+        },
+        {
+          "texto": "False",
+          "esCorrecta": false,
+          "value": 3
+        }
+      ]
+    },
+    {
+
+      "titulo": "Selecciona la false",
+      "opciones": [
+        {
+          "texto": "False",
+          "esCorrecta": true,
+          "value": 1
+        },
+        {
+          "texto": "True",
+          "esCorrecta": false,
+          "value": 2
+        },
+        {
+          "texto": "true",
+          "esCorrecta": false,
+          "value": 3
+        }
+      ]
+    }
+  ]
+}
